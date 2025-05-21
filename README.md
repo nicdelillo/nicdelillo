@@ -1,27 +1,62 @@
-## Hi there 👋
+## 👋 Ciao! I'm Nic
 
-# 👋 Ciao! I'm Nic
-- 🧰 I am currently working as a full remote data engineer, based in Italy
-- 🚀 I have been a gravitational wave astronomer serving for LIGO Collaboration an working neutron stars and black holes
-- 🌱 Learning learning Spark, Machine Learning and AI 
-- 🛠️ Building [quantoprendo.io](https://quantoprendo.io), a salary tax calculator and personal finance community for italian workers
-- 🧠 I am a forever curious, mountain lover, I am happy to chat about natural sciences, psychology, nutrion, biomechanic and sport science, personal finance
+🚀 I’m currently working as Data Engineer remotely from Italy.  
+🌀 Previously, I was a gravitational-wave astronomer with the LIGO Collaboration, exploring neutron stars and black holes.  
+🛠️ I'm building [quantoprendo.io](https://quantoprendo.io), a salary tax calculator and personal finance community for Italian workers.  
+🌱 Currently learning: Apache Spark, Machine Learning & AI.  
+🧠 Forever curious: passionate about natural sciences, psychology, nutrition, biomechanics, sport science, and personal finance.
 
-### 🧠 My experties cover
-Data Analysis, Bayesian Probability and inferences, Numerical Simulations, Cloud Computing, Software and Data Engineering, Gravitational Waves and Multi-messenger Astronomy.
+---
 
-### 🧰 My Tech Stack
-**Languages**: Python, SQL \
-**Tools**: Dagster, dbt, DLT, Sling, Postgres, MySQL, FastAPI, pandas, polars, AWS, Docker
+### 💡 My Expertise
+- Data Analysis & Bayesian Inference  
+- Numerical Simulations & Scientific Computing  
+- Cloud & Software Engineering  
+- Data Pipelines & Orchestration  
+- Gravitational Waves & Multi-Messenger Astronomy
 
-### 🪐 My Astro Stack
-**LIGO Tools**: lalsuite, bilby, pyGRB,PyCBC, PESummary,bayeswave, gwpy \
-**Misc**: astropy, astroquery, LaTex, Matlab, Mathematica
+---
 
-### ⚡ Fun fact:
-I was the first lucky person analyising [GW200105](https://arxiv.org/abs/2106.15163) the first ever detected gravitational wave from  neutron star-black hole system. I had the honour to lead the science case for this amazing astronomical event, giving my small contribution to enable one of the most exciting discovery of hour century.
+### 🧰 Tech Stack
 
+**Languages**  
+Python, SQL
 
-### 📫 How to reach me
-- Email: delillonicola@me.com
+**Frameworks & Tools**  
+Dagster, dbt, DLT, Sling, FastAPI, Docker
+
+**Databases**  
+PostgreSQL, MySQL
+
+**Cloud & Infra**  
+AWS, Docker
+
+**Data Libraries**  
+pandas, polars
+
+---
+
+### 🪐 Astro Stack
+
+**LIGO Ecosystem**  
+`lalsuite`, `bilby`, `pyGRB`, `PyCBC`, `PESummary`, `bayeswave`, `gwpy`
+
+**General Astronomy & Physics**  
+`astropy`, `astroquery`, LaTeX, MATLAB, Mathematica
+
+---
+
+### ⚡ Fun Fact
+
+I was the first lucky person to analyze [GW200105](https://arxiv.org/abs/2106.15163) — the **first-ever gravitational wave from a neutron star–black hole system**.  
+I had the honor to lead the science case, contributing to one of the most exciting discoveries of our century.
+
+---
+
+### 📫 Get in Touch
+
+- 📧 Email: [delillonicola@me.com](mailto:delillonicola@me.com)  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) *(add this if you have one)*  
+- 🧪 Projects & Blog: *Coming soon? Add your Substack or blog if available*
+
 

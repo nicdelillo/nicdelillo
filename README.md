@@ -15,7 +15,7 @@ Data Analysis, Bayesian Probability and inferences, Numerical Simulations, Cloud
 **Tools**: Dagster, dbt, DLT, Sling, Postgres, MySQL, FastAPI, pandas, polars, AWS, Docker
 
 ## 🪐 My Astro Stack
-**LIGO Tools**: lalsuite, bilby, pyGRB,PyCBC, PESummary,bayeswave, gwpy
+**LIGO Tools**: lalsuite, bilby, pyGRB,PyCBC, PESummary,bayeswave, gwpy \
 **Misc**: astropy, astroquery, LaTex, Matlab, Mathematica
 
 ## ⚡ Fun fact:

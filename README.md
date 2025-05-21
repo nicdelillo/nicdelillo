@@ -55,8 +55,9 @@ I had the honor to lead the science case, contributing to one of the most exciti
 
 ### 📫 Get in Touch
 
-- 📧 Email: [delillonicola@me.com](mailto:delillonicola@me.com)  
+- 📧 Email: [delillonicola@me.com](mailto:delillonicola@me.com)
+<!--
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) *(add this if you have one)*  
 - 🧪 Projects & Blog: *Coming soon? Add your Substack or blog if available*
-
+-->
 

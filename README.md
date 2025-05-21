@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 👋 Ciao! I'm Nic
 - 🔭 I am currently working as a data engineer
-- 🚀 I have been a gravitational wave astronomer serving for LIGO and working neutron star, black holes and parameter estimation 
+- 🚀 I have been a gravitational wave astronomer serving for LIGO and working neutron stars and black holes
 - 🌱 Learning learning Spark, Machine Learning and AI 
 - 🛠️ Building [quantoprendo.io](https://quantoprendo.io), a salary tax calculator and personal finance community for italian workers
 - 🧠 I am a forever curious, mountain lover, I am happy to chat about natural sciences, psychology, nutrion, biomechanic and sport science, personal finance

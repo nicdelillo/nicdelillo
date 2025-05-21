@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Ciao! I'm Nic
+- 🔭 I am currently working as a data engineer
+- 🚀 I have been a gravitational wave astronomer serving for LIGO and working neutron star, black holes and parameter estimation 
+- 🌱 Learning learning Spark, Machine Learning and AI 
+- 🛠️ Building [quantoprendo.io](https://quantoprendo.io), a salary tax calculator and personal finance community for italian workers
+- 🧠 I am a forever curious, mountain lover, I am happy to chat about natural sciences, psychology, nutrion, biomechanic and sport science, personal finance
+- ⚡ Fun fact: I was the first lucky person analyising [GW200105](https://arxiv.org/abs/2106.15163) the first ever detected gravitational wave from  neutron star-black hole system and had the honour to lead the science case for this astronomical event, giving my  contribution to enable one of the most exciting discovery of hour century.
+
+## 🧠 My experties cover
+Data Analysis, Bayesian Probability and inferences, Numerical Simulations, Cloud Computing, Software and Data Engineering, Gravitational wave and Multi-messenger Astronomy.
+
+## 🧰 My Tech Stack
+**Languages**: Python, SQL  
+**Tools**: FastAPI, Spark, Dagster, dbt, DLT, Sling
+
+## 📫 How to reach me
+- Email: delillonicola@me.com
+

@@ -11,7 +11,7 @@
 Data Analysis, Bayesian Probability and inferences, Numerical Simulations, Cloud Computing, Software and Data Engineering, Gravitational Waves and Multi-messenger Astronomy.
 
 ## 🧰 My Tech Stack
-**Languages**: Python, SQL, a tiny bit of C and C++
+**Languages**: Python, SQL, a tiny bit of C and C++ \
 **Tools**: Dagster, dbt, DLT, Sling, Postgres, MySQL, FastAPI, pandas, polars, AWS, Docker
 
 ## 🪐 My Astro Stack

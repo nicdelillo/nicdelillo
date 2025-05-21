@@ -27,8 +27,12 @@ Here are some ideas to get you started:
 Data Analysis, Bayesian Probability and inferences, Numerical Simulations, Cloud Computing, Software and Data Engineering, Gravitational wave and Multi-messenger Astronomy.
 
 ## 🧰 My Tech Stack
-**Languages**: Python, SQL  
-**Tools**: FastAPI, Spark, Dagster, dbt, DLT, Sling
+**Languages**: Python, SQL, a tiny bit of C and C++
+**Tools**: Dagster, dbt, DLT, Sling, Postgres, MySQL, FastAPI, pandas, polars, AWS, Docker
+
+## My Astro Stack
+**LIGO Tools**: lalsuite, bilby, pyGRB,PyCBC, PESummary,bayeswave, gwpy
+**Misc**: astropy, astroquery, LaTex, Matlab, Mathematica
 
 ## 📫 How to reach me
 - Email: delillonicola@me.com

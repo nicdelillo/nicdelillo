@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 👋 Ciao! I'm Nic
-- 🧰 I am currently working as a full remote data engineer, based in Italy
+- 🧰 I am currently working as a full remote data engineer
 - 🚀 I have been a gravitational wave astronomer serving for LIGO Collaboration working neutron stars and black holes
 - 🌱 Learning learning Spark, Machine Learning and AI 
 - 🛠️ Building [quantoprendo.io](https://quantoprendo.io), a salary tax calculator and personal finance community for italian workers

@@ -9,10 +9,10 @@
 ---
 
 ### 💡 My Expertise
-- Data Analysis & Bayesian Inference  
-- Numerical Simulations & Scientific Computing  
-- Cloud & Software Engineering  
 - Data Pipelines & Orchestration  
+- Cloud & Software Engineering  
+- Data Analysis & Bayesian Inferences
+- Numerical Simulations & Scientific Computing  
 - Gravitational Waves & Multi-Messenger Astronomy
 
 ---

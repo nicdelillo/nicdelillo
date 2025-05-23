@@ -1,7 +1,7 @@
 ## 👋 Ciao! I'm Nic
 
 🚀 I’m currently working as Data Engineer remotely from Italy.  
-🌀 Previously a [gravitational-wave astronomer](https://inspirehep.net/authors/1696920) for the [LIGO](https://www.ligo.caltech.edu/page/ligo-scientific-collaboration) and [Virgo](https://www.virgo-gw.eu/about/scientific-collaboration) Collaboration, analysing data from neutron stars and black holes.  
+🌀 Previously a [gravitational-wave astronomer](https://inspirehep.net/authors/1696920) for the [LIGO](https://www.ligo.caltech.edu/page/ligo-scientific-collaboration) and [Virgo](https://www.virgo-gw.eu/about/scientific-collaboration) Collaboration, analysing data from neutron stars and black holes astrophysdical signals.  
 🛠️ I'm building [quantoprendo.io](https://quantoprendo.io), a salary tax calculator and personal finance community for Italian workers.  
 🌱 Learning: Apache Spark, Machine Learning & AI.  
 🧠 Forever curious: passionate about natural sciences, psychology, nutrition, biomechanics, sport science and personal finance.

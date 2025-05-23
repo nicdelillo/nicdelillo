@@ -23,7 +23,7 @@
 **Languages**  
 Python, SQL
 
-**Frameworks & Tools**  
+**Data orhestration and ELT**  
 Dagster, dbt, Sling, dlt, FastAPI
 
 **Databases**  

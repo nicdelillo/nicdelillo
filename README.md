@@ -33,7 +33,7 @@ PostgreSQL, MySQL
 AWS, Docker
 
 **Data Libraries**  
-pandas, polars,numpy, matplotlib
+pandas, polars, numpy, matplotlib
 
 ---
 

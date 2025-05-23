@@ -24,7 +24,7 @@
 Python, SQL
 
 **Frameworks & Tools**  
-Dagster, dbt, DLT, Sling, FastAPI, Docker
+Dagster, dbt, Sling, dlt, FastAPI
 
 **Databases**  
 PostgreSQL, MySQL

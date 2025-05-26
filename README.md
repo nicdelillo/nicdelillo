@@ -24,7 +24,7 @@
 Python, SQL
 
 **Data orhestration and ELT**  
-Dagster, dbt, Sling, dlt, FastAPI
+Dagster, dbt, Sling, dlt, FastAPI, sqlAlchemy
 
 **Databases**  
 PostgreSQL, MySQL

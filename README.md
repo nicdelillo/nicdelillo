@@ -27,7 +27,7 @@ Python, SQL
 Dagster, dbt, Sling, dlt, FastAPI, sqlAlchemy
 
 **Databases**  
-PostgreSQL, MySQL
+PostgreSQL, MySQL, supabase, duckdb
 
 **Cloud & Infra**  
 AWS, Docker

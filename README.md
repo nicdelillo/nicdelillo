@@ -2,7 +2,7 @@
 
 🚀 I’m currently working as Data Engineer remotely from Italy.  
 🌀 Previously a [gravitational-wave astronomer](https://inspirehep.net/authors/1696920) for the [LIGO](https://www.ligo.caltech.edu/page/ligo-scientific-collaboration) and [Virgo](https://www.virgo-gw.eu/about/scientific-collaboration) Collaboration, analysing data from neutron stars and black holes signals.  
-🛠️ I run italian products such as [quantoprendo.io](https://quantoprendo.io): a salary tax calculator and personal finance community for Italian workers; [energumeno.it](https://energumeno.it/): full-stack energy comparison platform that ingests Italy's regulated open data and runs real billing formulas to rank best current offers.
+🛠️ I run tech products for the Italian market such as [quantoprendo.io](https://quantoprendo.io): a salary tax calculator and personal finance community for Italian workers; [energumeno.it](https://energumeno.it/): full-stack energy comparison platform that ingests Italy's regulated open data and runs real billing formulas to rank best current offers.
 🌱 Learning: Apache Spark, Machine Learning & AI.  
 🧠 Forever curious: passionate about natural sciences, psychology, nutrition, biomechanics, sport science and personal finance.
 

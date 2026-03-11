@@ -30,7 +30,7 @@ Dagster, PySpark, dbt, Sling, dlt, FastAPI, sqlAlchemy
 PostgreSQL, MySQL, supabase, duckdb
 
 **Cloud & Infra**  
-AWS, Docker, Cloudflare, Render
+AWS, Docker, Cloudflare, Render, Hetzner, Coolify, Databricks
 
 **Data Libraries**  
 pandas, polars, numpy, matplotlib

@@ -9,7 +9,7 @@ ETL / ELT Pipelines • Data Modeling • Cloud Infrastructure
 
 ### 🛠️ Side Projects
 
-- **⚡ energumeno.it**
+**⚡ energumeno.it**
 Energy comparison platform for the Italian market.
 
 - Automated pipeline ingesting **200+ regulated energy offers daily**

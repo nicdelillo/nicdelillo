@@ -1,56 +1,96 @@
 ## 👋 Ciao! I'm Nic
 
-🚀 I’m currently working as Data Engineer remotely from Italy.  
-🌀 Previously a [gravitational-wave astronomer](https://inspirehep.net/authors/1696920) for the [LIGO](https://www.ligo.caltech.edu/page/ligo-scientific-collaboration) and [Virgo](https://www.virgo-gw.eu/about/scientific-collaboration) Collaboration, analysing data from neutron stars and black holes signals.  
-🛠️ I run tech products for the Italian market such as [quantoprendo.io](https://quantoprendo.io): a salary tax calculator and personal finance community for Italian workers; [energumeno.it](https://energumeno.it/): full-stack energy comparison platform that ingests Italy's regulated open data and runs real billing formulas to rank best current offers.
-🌱 Learning: Apache Spark, Machine Learning & AI.  
-🧠 Forever curious: passionate about natural sciences, psychology, nutrition, biomechanics, sport science and personal finance.
+**Data Engineer | Python • SQL • dbt • PySpark • AWS • Databricks**  
+**ETL / ELT Pipelines • Data Modeling • Cloud Infrastructure**
+
+🚀 I am a **Data Engineer working remotely from Italy**, building **end-to-end data pipelines and full-stack data products**.
 
 ---
 
-### 💡 My Expertise
+## 🛠️ Side Projects
+
+### ⚡ energumeno.it
+Energy comparison platform for the Italian market.
+
+- Automated pipeline ingesting **200+ regulated energy offers daily**
+- Runs **real billing formulas** to estimate yearly cost
+- Ranks providers by **actual annual price**
+
+**Stack:**  
+Django • PostgreSQL • Selenium • Polars • Coolify • Hetzner
+
+---
+
+### 💰 quantoprendo.io
+Salary tax calculator and personal finance tools for Italian workers with Thousands of monthly unique visitors
+
+**Stack:**  
+NextJS • React • Cloudflare • FastAPI
+
+---
+
+## 🌀 Previous Life
+
+I was a **gravitational-wave astronomer** in the **LIGO/Virgo Collaboration**.
+I led the analysis of **GW200105**, the **first gravitational wave ever detected from a neutron star–black hole merger**.
+
+---
+
+## 💡 Core Skills
+
 - Data Pipelines & Orchestration  
-- Cloud & Software Engineering
-- Data Analysis & Bayesian Inferences
-- Numerical Simulations & Scientific Computing
-- Physics & Maths
-- Gravitational Waves & Multi-Messenger Astronomy
+- Cloud & Software Engineering  
+- Data Analysis & Bayesian Inference  
+- Numerical Simulations & Scientific Computing  
+- Physics & Mathematics  
+- Gravitational Waves & Multi-Messenger Astronomy  
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 **Languages**  
-Python, SQL
+Python • SQL
 
-**Data orhestration and ELT**  
-Dagster, PySpark, dbt, Sling, dlt, FastAPI, sqlAlchemy
+**Data Engineering**  
+Dagster • PySpark • dbt • Sling • dlt • FastAPI • SQLAlchemy
 
 **Databases**  
-PostgreSQL, MySQL, supabase, duckdb
+PostgreSQL • MySQL • Supabase • DuckDB
 
-**Cloud & Infra**  
-AWS, Docker, Cloudflare, Render, Hetzner, Coolify, Databricks
+**Cloud & Infrastructure**  
+AWS • Docker • Cloudflare • Render • Hetzner • Coolify • Databricks
 
-**Data Libraries**  
-pandas, polars, numpy, matplotlib
+**Data Analysis**  
+Pandas • Polars • NumPy • Matplotlib
 
----
-
-### 🪐 Astro Stack
-
-**LIGO Ecosystem**  
-`lalsuite`, `bilby`, `pyGRB`, `PyCBC`, `PESummary`, `bayeswave`, `gwpy`
-
-**General Astronomy & Physics**  
-`astropy`, `astroquery`, LaTeX, MATLAB, Mathematica
+**Versioning**  
+Git • GitHub • GitLab • DVC
 
 ---
 
-### ⚡ Fun Fact
+## 🪐 Astro Stack
 
-I was the first lucky person to analyze [GW200105](https://arxiv.org/abs/2106.15163) — the **first-ever gravitational wave from a neutron star–black hole system**.  
-I had the honor to lead the science case, contributing to one of the most exciting discoveries of our century.
+lalsuite • bilby • pyGRB • PyCBC • bayeswave • gwpy  
+astropy • astroquery • MATLAB • Mathematica • LaTeX
+
+---
+
+## 🌱 Currently Learning
+
+Machine Learning • AI Engineering
+
+---
+
+## 🧠 Interests
+
+Natural sciences • psychology • nutrition • biomechanics • sport science • personal finance
+
+---
+
+## ⚡ Fun Fact
+
+I was the **first human to analyze GW200105**, the first gravitational wave from a **neutron star–black hole system**, and I led the science case contributing to one of the most exciting discoveries of this century.
 
 ---
 

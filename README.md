@@ -19,8 +19,6 @@ Energy comparison platform for the Italian market.
 **Stack:**  
 Django • PostgreSQL • Selenium • Polars • Coolify • Hetzner
 
----
-
 **💰 quantoprendo.io**
 Salary tax calculator and personal finance tools for Italian workers with Thousands of monthly unique visitors
 

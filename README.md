@@ -3,7 +3,7 @@
 **Data Engineer | Python • SQL • dbt • PySpark • AWS • Databricks**  
 **ETL / ELT Pipelines • Data Modeling • Cloud Infrastructure**
 
-🚀 I am a **Data Engineer working remotely from Italy**, building **end-to-end data pipelines and full-stack data products**.
+🚀 I am a Data Engineer working remotely from Italy, building end-to-end data pipelines and full-stack data products.
 
 ---
 
